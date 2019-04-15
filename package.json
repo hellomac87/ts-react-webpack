@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/hellomac87/ts-react-webpack/issues"
   },
-  "homepage": "https://github.com/hellomac87/ts-react-webpack#readme"
+  "homepage": "https://github.com/hellomac87/ts-react-webpack#readme",
+  "dependencies": {
+    "@types/react": "^16.8.13",
+    "@types/react-dom": "^16.8.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.4.3",
+    "webpack-cli": "^3.3.0"
+  }
 }
